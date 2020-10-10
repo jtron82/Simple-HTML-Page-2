@@ -1,1 +1,1 @@
-# Simple Updated HTML Page for ITMD 361 Lab 2
+# Simple HTML Page for ITMD 361 Lab 2
